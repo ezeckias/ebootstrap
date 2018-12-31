@@ -1,0 +1,100 @@
+.image
+{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .jumbotron
+  {
+  background-color:#1F2605;
+  }
+a
+{
+  position:relative;
+  top:-100%;
+  font-family: 'ZCOOL XiaoWei', serif;
+  color:white;
+}
+.portfolio
+{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body
+{
+  margin-left:10%;
+  margin-right:10%;
+  background-color:;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:600;
+}
+.container{
+    max-width: 95%;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: float;
+    background-color:#3b490a;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:600;
+}
+h1
+{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight:800;
+  color: white;
+}
+p{
+  color: white;
+}
+.color
+{
+  background-color:#1F2605;
+}
+.colors
+{
+  background-color:#1F2605;
+}
+.hey{
+  background-color:#2d3707;
+}
+.button
+{
+  background-color:#d3cc1c;
+}
+
+.fa {
+  padding: 1px;
+  font-size: 20px;
+
+  text-align: center;
+  text-decoration: none;
+display:block;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  color:#4E8AD8;
+}
+.fa-twitter {
+  color:#3EDBE1;
+}
+.fa-whatsapp
+{
+  color:green;
+}
+.fa-instagram
+{
+  color:#E1D250;
+}
+footer
+{
+  background-color:#1F2605;
+}
+.center
+{
+  text-align:center;
+}
